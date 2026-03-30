@@ -1,8 +1,8 @@
 # OSS Audit Project
 
 ## 👤 Student Details
-- **Name:** Parv Dube  
-- **Roll Number:** 24BCE10863  
+- **Name:** Steve Kevin Dias  
+- **Roll Number:** 24BAI10733
 
 ---
 
