@@ -61,7 +61,7 @@ sudo apt install git
  How to Run the Scripts
 Step 1: Clone Repository
 git clone <your-repo-link>
-cd oss-audit-24bce10863
+cd oss-audit-24bai10733
 Step 2: Give Permission
 chmod +x *.sh
 Step 3: Run Scripts
